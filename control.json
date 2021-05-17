@@ -2,6 +2,8 @@
     "versionCode": 4,
     "versionName": "1.5.1",
     "changelog": ["테스트"],
-    "downloadUrl": "https://naver.com",
-    "imageUrl": "https://naver.com/img.png"
+    "downloadUrl": "https://m.naver.com",
+    "imageUrl": "https://naver.com/img.png",
+    "bottomAd": "https://m.naver.com",
+    "bottomUrl": "https://www.affiliated.io/wp-content/uploads/2019/03/affiliated-X2-300x50.png"
 }
