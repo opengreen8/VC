@@ -1,8 +1,6 @@
 {
     "versionCode": 4,
     "ntfNum" : 6,
-    "versionName": "1.5.1",
-    "changelog": ["테스트"],
     "downloadUrl": "https://m.naver.com",
     "imageUrl": "https://expabroad.blog/wp-content/uploads/2015/03/300-x-250-300x250.png",
     "bottomAd": "https://m.naver.com",
