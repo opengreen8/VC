@@ -1,11 +1,11 @@
 {
-    "versionCode": 4,
+    "versionCode": 2,
     "ntfNum" : 6,
     "versionName": "1.5.1",
     "changelog": ["테스트"],
     "downloadUrl": "https://m.naver.com",
-    "imageUrl": "https://naver.com/img.png",
+    "imageUrl": "https://expabroad.blog/wp-content/uploads/2015/03/300-x-250-300x250.png",
     "bottomAd": "https://m.naver.com",
-    "bottomUrl": "https://www.affiliated.io/wp-content/uploads/2019/03/affiliated-X2-300x50.png",
+    "bottomUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Wikipedia-banner-ru-468x60.png",
     "ntf": " 공지: 공지사항입니다, 이버전에는 SBS채널만 제외됩니다, SBS관련채널은 빠른티비앱에 있으니 삭제하지 말아주세요"
 }
