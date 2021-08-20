@@ -1,9 +1,9 @@
 {
     "versionCode": 4,
-    "ntfNum" : 7,
+    "ntfNum" : ,
     "downloadUrl": "https://play.google.com/store/apps/details?id=com.ksoft707.cardsaying6",
     "imageUrl": "https://k.kakaocdn.net/dn/bfdk0G/btq9WqwJZaU/7e7ArtVGAmX88MMqY24m11/img.png",
     "bottomAd": "https://m.naver.com",
     "bottomUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Wikipedia-banner-ru-468x60.png",
-    "ntf": " 공지사항: 공지사항란 입니다."
+    "ntf": " 공지사항: 현재 서버 점검 중입니다. 대략 1~2시간 정도 소요됩니다. 불편을 드려 죄송합니다. "
 }
